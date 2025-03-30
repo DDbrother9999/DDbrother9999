@@ -2,8 +2,8 @@
 <h3 align="center">also known as Starlight</h3>
 
 Languages: Java, Kotlin, Skript (if that counts :P)
-Minecraft Enthusiast
-Minehut Moderator
+!Minecraft Enthusiast
+!Minehut Moderator
 
 broken readme :sob: i'll fix it soon :)
 # Languages + Tools:
