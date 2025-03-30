@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm DDbrother</h1>
 <h3 align="center">also known as Starlight</h3>
 
+Languages: Java, Kotlin, Skript (if that counts :P)
+Minecraft Enthusiast
+Minehut Moderator
+
+broken readme :sob: i'll fix it soon :)
 # Languages + Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
