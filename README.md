@@ -6,9 +6,6 @@
 - Minehut Moderator
 - 3y Java | 2y Kotlin | 4y Skript (if that counts :P)
 
-# Languages + Tools:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ddbrother9999&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ddbrother9999&theme=shadow_blue&hide_border=false)<br/>
