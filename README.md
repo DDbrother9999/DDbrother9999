@@ -4,7 +4,7 @@
 # About Me:
 - Minecraft Enthusiast
 - Minehut Moderator
-- 3y Java | 2y Kotlin | 4y Skript (if that counts :P)
+- 4y Java | 2y Kotlin | 5y Skript (if that counts :P)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ddbrother9999&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
